@@ -36,3 +36,10 @@ git remote add origin https://github.com/amanray01/JSRM22.git
 git push origin master
 git remote add origin https://github.com/amanray01/new22.git
 git push origin master
+git init
+git config user.name "aman"
+git config user.email "amanray97264@gmail.com"
+git add .
+git commit -m "added all files"
+git remote add origin https://github.com/amanray01/new22.git
+git push origin master
