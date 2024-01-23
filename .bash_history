@@ -51,3 +51,13 @@ git add .
 git commit -m "added all files"
 git remote add origin https://github.com/amanray01/shri22.git
 git push origin master
+ls
+git init
+git config user "aman"
+git config user.name "aman"
+git config user.email "amanray97264@gmail.com"
+git add .
+git commit -m "added all files"
+git remote add origin
+git push origin master
+ls
